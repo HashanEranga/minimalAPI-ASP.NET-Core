@@ -1,4 +1,5 @@
 using Microsoft.OpenApi.Models;
+using libraryAPI.Db;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,5 +20,9 @@ app.UseSwaggerUI(c =>
 });
 
 app.MapGet("/", () => "Hello World!");
-
+app.MapGet("/books/{bookId}", (int bookId) => BookDatabase.GetBook(bookId));
+app.MapGet("/books", () => BookDatabase.GetBooks());
+app.MapPost("/books", (Book book) => BookDatabase.CreateBook(book));
+app.MapPut("/books", (Book book) => BookDatabase.UpdateBook(book));
+app.MapDelete("/books/{bookId}", (int bookId) => BookDatabase.RemoveBook(bookId));
 app.Run();

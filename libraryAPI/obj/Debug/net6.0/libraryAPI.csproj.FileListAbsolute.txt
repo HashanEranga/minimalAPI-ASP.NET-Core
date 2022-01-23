@@ -19,3 +19,9 @@ D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\obj\Debug\net6.0\lib
 D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\obj\Debug\net6.0\ref\libraryAPI.dll
 D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\obj\Debug\net6.0\libraryAPI.pdb
 D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\obj\Debug\net6.0\libraryAPI.genruntimeconfig.cache
+D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\obj\Debug\net6.0\libraryAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Academic\dotnet\Learn\minimalAPI-ASP.NET-Core\libraryAPI\obj\Debug\net6.0\libraryAPI.csproj.CopyComplete
